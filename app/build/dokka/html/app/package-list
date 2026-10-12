@@ -1,0 +1,24 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.sam.myapplication.ui.theme////PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/index.html
+$dokka.location:com.example.sam.myapplication.ui.theme//MyApplicationTheme/#kotlin.Boolean#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-my-application-theme.html
+$dokka.location:com.example.sam.myapplication.ui.theme//Pink40/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-pink40.html
+$dokka.location:com.example.sam.myapplication.ui.theme//Pink80/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-pink80.html
+$dokka.location:com.example.sam.myapplication.ui.theme//Purple40/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-purple40.html
+$dokka.location:com.example.sam.myapplication.ui.theme//Purple80/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-purple80.html
+$dokka.location:com.example.sam.myapplication.ui.theme//PurpleGrey40/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-purple-grey40.html
+$dokka.location:com.example.sam.myapplication.ui.theme//PurpleGrey80/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-purple-grey80.html
+$dokka.location:com.example.sam.myapplication.ui.theme//Typography/#/PointingToDeclaration/app/com.example.sam.myapplication.ui.theme/-typography.html
+$dokka.location:com.example.sam.myapplication////PointingToDeclaration/app/com.example.sam.myapplication/index.html
+$dokka.location:com.example.sam.myapplication//Greeting/#kotlin.String#androidx.compose.ui.Modifier/PointingToDeclaration/app/com.example.sam.myapplication/-greeting.html
+$dokka.location:com.example.sam.myapplication//GreetingPreview/#/PointingToDeclaration/app/com.example.sam.myapplication/-greeting-preview.html
+$dokka.location:com.example.sam.myapplication/MainActivity///PointingToDeclaration/app/com.example.sam.myapplication/-main-activity/index.html
+$dokka.location:com.example.sam.myapplication/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.sam.myapplication/-main-activity/-main-activity.html
+$dokka.location:com.example.sam.myapplication/Wizard///PointingToDeclaration/app/com.example.sam.myapplication/-wizard/index.html
+$dokka.location:com.example.sam.myapplication/Wizard/Wizard/#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.sam.myapplication/-wizard/-wizard.html
+$dokka.location:com.example.sam.myapplication/Wizard/castSpell/#kotlin.String/PointingToDeclaration/app/com.example.sam.myapplication/-wizard/cast-spell.html
+$dokka.location:com.example.sam.myapplication/Wizard/mana/#/PointingToDeclaration/app/com.example.sam.myapplication/-wizard/mana.html
+$dokka.location:com.example.sam.myapplication/Wizard/name/#/PointingToDeclaration/app/com.example.sam.myapplication/-wizard/name.html
+$dokka.location:com.example.sam.myapplication/Wizard/spellPower/#/PointingToDeclaration/app/com.example.sam.myapplication/-wizard/spell-power.html
+com.example.sam.myapplication
+com.example.sam.myapplication.ui.theme
