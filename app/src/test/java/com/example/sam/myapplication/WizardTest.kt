@@ -31,7 +31,6 @@ class WizardTest {
     }
     @Test
     fun castSpell_frostbite_successful() {
-        evilWizard.mana = 30
         val damageDealt = evilWizard.castSpell("Frostbite")
 
         assertEquals(20, damageDealt) // spellPower of 10 * 2 = 20
